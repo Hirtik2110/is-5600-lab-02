@@ -162,7 +162,7 @@ function viewStock(symbol, stocks) {
 }
 
 /**
- * Clears stock details
+ * Clears stock detail
  */
 function clearStockDetails() {
     document.querySelector('#stockName').textContent = '';
